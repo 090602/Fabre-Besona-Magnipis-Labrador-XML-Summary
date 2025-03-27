@@ -84,7 +84,9 @@ Weaknesses:
 2. Processing large XML files may require high computational resources.
 
 
+
 Alternative Approaches:
+
 - *JSON* is often preferred for lightweight data transfer in web applications.
 - *YAML* is another alternative for human-readable data serialization.
 
