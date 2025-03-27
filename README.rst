@@ -10,41 +10,41 @@ During our time on IT6/L together with my Groupmates we learned that XML (Extens
 Key XML Concepts
 ----------------
 
-### 1. XML Syntax and Structure
+1. XML Syntax and Structure
 - XML documents follow a hierarchical tree structure with elements enclosed in opening (``<tag>``) and closing (``</tag>``) tags.
 - Proper nesting, case sensitivity, and well-formed rules ensure XML document validity.
 
 
-### 2. XML Elements & Attributes
+2. XML Elements & Attributes
 - *Elements* store data, while *attributes* provide additional details about elements.
 - Attributes should be used wisely to avoid redundancy and improve readability.
 
 
-### 3. XML Namespaces
+3. XML Namespaces
 - Namespaces prevent conflicts when combining multiple XML documents by defining unique prefixes.
 
 
-### 4. XML Display & Parsing
+4. XML Display & Parsing
 - XML data can be displayed using CSS or transformed using *XSLT* for better readability.
 - XML parsers (*DOM* and *SAX*) are used to process and manipulate XML data efficiently.
 
 XML Processing & Integration
 ----------------------------
 
-### 1. XML DOM (Document Object Model)
+1. XML DOM (Document Object Model)
 - DOM represents XML documents as a tree, enabling access and manipulation of elements through JavaScript or other programming languages.
 - Common DOM operations include accessing, modifying, creating, and deleting XML nodes.
 
 
-### 2. XPath & XSLT
+2. XPath & XSLT
 - *XPath* is a language for navigating XML documents using paths to locate elements.
 - *XSLT (Extensible Stylesheet Language Transformations)* transforms XML into different formats, such as HTML or another XML structure.
 
-### 3. XQuery & XLink
+3. XQuery & XLink
 - *XQuery* extracts and manipulates data from XML databases using structured queries.
 - *XLink* allows linking between XML documents, similar to hyperlinks in HTML.
 
-### 4. XML Validation: DTD & XSD
+4. XML Validation: DTD & XSD
 - *DTD (Document Type Definition)* and *XSD (XML Schema Definition)* ensure XML document validity by defining structure, data types, and rules.
 XSD is more advanced than DTD, supporting data types and constraints.
 
@@ -52,11 +52,11 @@ XSD is more advanced than DTD, supporting data types and constraints.
 XML and AJAX Integration
 ------------------------
 
-### 1. AJAX and XML
+1. AJAX and XML
 - *AJAX (Asynchronous JavaScript and XML)* enables dynamic web applications by exchanging data with servers without reloading pages.
 - *XMLHttpRequest* allows fetching and sending XML data asynchronously, improving web performance.
 
-### 2. AJAX Applications
+2. AJAX Applications
 - Used in real-time updates, auto-suggestions, and interactive user experiences.
 - Common integrations include AJAX with PHP, databases, and APIs.
 
@@ -71,18 +71,18 @@ Real-World Applications of XML
 Critical Analysis
 -----------------
 
-### Strengths:
+Strengths:
 1. Platform-independent and human-readable.
 2. Flexible and widely supported in software applications.
 3. Essential for data exchange in web services and APIs.
 
 
-### Weaknesses:
+Weaknesses:
 1. Can be verbose compared to *JSON*.
 2. Processing large XML files may require high computational resources.
 
 
-### Alternative Approaches:
+Alternative Approaches:
 - *JSON* is often preferred for lightweight data transfer in web applications.
 - *YAML* is another alternative for human-readable data serialization.
 
