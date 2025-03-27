@@ -72,12 +72,14 @@ Critical Analysis
 -----------------
 
 Strengths:
+
 1. Platform-independent and human-readable.
 2. Flexible and widely supported in software applications.
 3. Essential for data exchange in web services and APIs.
 
 
 Weaknesses:
+
 1. Can be verbose compared to *JSON*.
 2. Processing large XML files may require high computational resources.
 
