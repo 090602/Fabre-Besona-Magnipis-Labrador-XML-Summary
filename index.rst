@@ -1,4 +1,4 @@
-XML Concepts, Skills, and Applications
+Welcome to XML Learning Summary
 ======================================
 
 *Group Members:* Roweal Fabre, Iilyn Besona, Awlyn Labrador, John Rovic Magnipis
